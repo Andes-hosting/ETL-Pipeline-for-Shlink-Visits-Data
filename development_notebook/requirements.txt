@@ -1,0 +1,4 @@
+shlink
+pandas
+psycopg2-binary
+sqlalchemy
